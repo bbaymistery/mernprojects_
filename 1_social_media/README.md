@@ -292,6 +292,4 @@ Creating a post involves uploading media to Cloudinary and attaching the resulti
 
 ## 👨‍💻 License
 
-This project is open-source under the [ISC License](LICENSE).#   m y _ m e r n _ s t a c k _ p r o j e c t s 
- 
- 
+This project is open-source under the [ISC License](LICENSE).
