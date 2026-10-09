@@ -1,0 +1,26 @@
+# Dependencies (Ignores root node_modules and client/node_modules)
+node_modules/
+**/node_modules/
+
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build outputs & Logs
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# OS Junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,71 @@
+.auth_page {
+    width: 100%;
+    min-height: 100vh;
+    background: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.auth_page form {
+    background: #ffffff;
+    max-width: 380px;
+    width: 100%;
+    border: 1px solid #dbdbdb;
+    border-radius: 12px;
+    padding: 40px 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.auth_page h3 {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: #262626;
+}
+
+.auth_page form .form-control {
+    background: #fafafa;
+    border: 1px solid #dbdbdb;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 10px 12px;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.auth_page form .form-control:focus {
+    background: #ffffff;
+    border-color: #a8a8a8;
+    box-shadow: none;
+}
+
+.auth_page form .pass {
+    position: relative;
+}
+
+.auth_page form .pass small {
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #262626;
+    font-size: 12px;
+    font-weight: 600;
+    user-select: none;
+}
+
+.auth_page form button[type="submit"] {
+    background-color: #0095f6;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 8px 16px;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+}
+
+.auth_page form button[type="submit"]:hover {
+    background-color: #1877f2;
+}

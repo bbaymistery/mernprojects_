@@ -1,0 +1,91 @@
+/* --------- Status ---------- */
+.status {
+    background: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    padding: 16px 20px;
+    border-radius: 10px;
+    border: 1px solid #dbdbdb;
+    margin-bottom: 24px;
+}
+
+.status .statusBtn {
+    background: #fafafa;
+    border: 1px solid #dbdbdb;
+    outline: none;
+    border-radius: 20px;
+    color: #8e8e8e;
+    padding: 10px 16px;
+    text-align: left;
+    margin-left: 10px;
+    transition: background 0.2s ease;
+    font-size: 14px;
+}
+
+.status .statusBtn:hover {
+    background: #efefef;
+    color: #262626;
+}
+
+/* ------------Posts ------ */
+.posts .card {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid #dbdbdb;
+    border-radius: 10px;
+    margin-bottom: 24px;
+    background: #ffffff;
+}
+
+/* --------- Post Card Header --------- */
+.posts .card_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 18px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.posts .card_header .card_name {
+    font-weight: 600;
+}
+
+.posts .card_header .dropdown-menu {
+    position: absolute;
+    right: 0;
+    left: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 1px solid #efefef;
+    border-radius: 8px;
+}
+
+/* ---------- Post Card Body ---------- */
+.posts .card_body-content {
+    padding: 12px 18px;
+    font-size: 14px;
+    color: #262626;
+}
+
+.posts .card_body-content .readMore {
+    color: #0095f6;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+/* ---------- Post Card Footer ---------- */
+.posts .card_icon_menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+}
+
+.posts .card_icon_menu span,
+.posts .card_icon_menu i {
+    font-size: 26px;
+    margin: 4px;
+    cursor: pointer;
+    transition: transform 0.1s ease;
+}
+
+.posts .card_icon_menu span:hover {
+    transform: scale(1.1);
+}
