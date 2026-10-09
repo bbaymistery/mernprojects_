@@ -1,4 +1,4 @@
-# 🚀 V-Network — Full-Featured MERN Social Media Platform
+# V-Network — Full-Featured MERN Social Media Platform
 
 > A production-ready, full-stack MERN (MongoDB, Express, React, Node.js) social networking application inspired by Instagram, featuring real-time messaging, WebRTC video/audio calling, instant notifications, interactive social feeds, and dark mode support.
 

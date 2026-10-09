@@ -1,9 +1,9 @@
-# 🛒 Flipkart Clone - Full-Stack E-Commerce Enterprise Platform
+# Flipkart Clone - Full-Stack E-Commerce Enterprise Platform
 
-[![Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-brightgreen)] mern/2_flipcard/backend)
-[![Database](https://img.shields.io/badge/Database-MongoDB%20%7C%20Mongoose-green)] mern/2_flipcard/backend)
-[![Frontend Admin](https://img.shields.io/badge/Admin-React%2018%20%7C%20Redux%20%7C%20Vite-blue)] mern/2_flipcard/frontend-admin-app)
-[![Frontend Storefront](https://img.shields.io/badge/Storefront-React%2018%20%7C%20Redux%20%7C%20Vite-orange)] mern/2_flipcard/frontend-app-clone)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-brightgreen)](./backend)
+[![Database](https://img.shields.io/badge/Database-MongoDB%20%7C%20Mongoose-green)](./backend)
+[![Frontend Admin](https://img.shields.io/badge/Admin-React%2018%20%7C%20Redux%20%7C%20Vite-blue)](./frontend-admin-app)
+[![Frontend Storefront](https://img.shields.io/badge/Storefront-React%2018%20%7C%20Redux%20%7C%20Vite-orange)](./frontend-app-clone)
 
 A production-grade, full-stack e-commerce ecosystem built with **Node.js, Express, MongoDB, React 18, and Redux Toolkit**. This platform replicates core enterprise e-commerce functionality, including multi-tier recursive category tree management, multi-image product uploading, custom admin page layout builders, atomic shopping cart synchronization, multi-step checkout, and real-time order status tracking.
 
@@ -13,11 +13,11 @@ A production-grade, full-stack e-commerce ecosystem built with **Node.js, Expres
 
 All modules are extensively documented. Access the detailed technical guides below:
 
-📁 **[`README/`] mern/2_flipcard/README)** Directory Breakdown:
-- 📖 [**Project Overview & System Architecture**] mern/2_flipcard/README/PROJECT_OVERVIEW.md)
-- 🛠️ [**Backend REST API & Database Documentation**] mern/2_flipcard/README/BACKEND_DOCUMENTATION.md)
-- 🖥️ [**Frontend Admin Dashboard Documentation**] mern/2_flipcard/README/FRONTEND_ADMIN_DOCUMENTATION.md)
-- 🛒 [**Frontend Customer Storefront Documentation**] mern/2_flipcard/README/FRONTEND_APP_CLONE_DOCUMENTATION.md)
+📁 **[`README/`](./README)** Directory Breakdown:
+- 📖 [**Project Overview & System Architecture**](./README/PROJECT_OVERVIEW.md)
+- 🛠️ [**Backend REST API & Database Documentation**](./README/BACKEND_DOCUMENTATION.md)
+- 🖥️ [**Frontend Admin Dashboard Documentation**](./README/FRONTEND_ADMIN_DOCUMENTATION.md)
+- 🛒 [**Frontend Customer Storefront Documentation**](./README/FRONTEND_APP_CLONE_DOCUMENTATION.md)
 
 ---
 
